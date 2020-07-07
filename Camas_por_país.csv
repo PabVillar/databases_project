@@ -1,4 +1,4 @@
-country,lat,lng,type,beds,population,year
+pais,lat,lng,tipo,camas,poblacion,anho
 AD,42.5,1.5,ICU,0.071,83747,2011
 AD,42.5,1.5,TOTAL,2.5,84463,2009
 AE,24,54,TOTAL,1.1,9141596,2012
