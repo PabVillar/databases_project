@@ -1,0 +1,202 @@
+id,nombre,region
+AD,Andorra,Europa
+AE,Emiratos Arabes Unidos,Asia
+AF,Afganistan,Asia
+AG,Antigua y Barbuda,Caribe
+AL,Albania,Europa
+AM,Armenia,Eurasia
+AO,Angola,Africa
+AR,Argentina,America del Sur
+AT,Austria,Europa
+AU,Australia,Oceania
+AZ,Azerbaiyan,Eurasia
+BA,Bosnia y Herzegovina,Europa
+BB,Barbados,Caribe
+BD,Bangladesh,Asia
+BE,Belgica,Europa
+BF,Burkina Faso,Africa
+BG,Bulgaria,Europa
+BH,Bahrein,Asia
+BI,Burundi,Africa
+BJ,Benin,Africa
+BM,Bermudas,America del Norte
+BN,Brunei,Asia
+BO,Bolivia,America del Sur
+BR,Brasil,America del Sur
+BS,Bahamas,Caribe
+BT,Butan,Asia
+BW,Botswana,Africa
+BY,Bielorrusia,Europa
+BZ,Belice,America Central
+CA,Canada,America del Norte
+CD,Republica Democratica del Congo,Africa
+CF,Republica Centroafricana,Africa
+CG,Republica del Congo,Africa
+CH,Suiza,Europa
+CI,Costa de Marfil,Africa
+CL,Chile,America del Sur
+CM,Camerun,Africa
+CN,China,Asia
+CO,Colombia,America del Sur
+CR,Costa Rica,America Central
+CU,Cuba,Caribe
+CV,Cabo Verde,Africa
+CY,Chipre,Eurasia
+CZ,Republica Checa,Europa
+DE,Alemania,Europa
+DJ,Djibouti,Africa
+DK,Dinamarca,Europa
+DM,Dominica,Caribe
+DO,Republica Dominicana,Caribe
+DZ,Argelia,Africa
+EC,Ecuador,America del Sur
+EE,Estonia,Europa
+EG,Egipto,Africa
+ER,Eritrea,Africa
+ES,Espana,Europa
+ET,Etiopia,Africa
+FI,Finlandia,Europa
+FJ,Fiji,Oceania
+FM,Micronesia,Oceania
+FR,Francia,Europa
+GA,Gabon,Africa
+GB,Reino Unido,Europa
+GD,Granada,Caribe
+GE,Georgia,Eurasia
+GH,Ghana,Africa
+GL,Groenlandia,America del Norte
+GM,Gambia,Africa
+GN,Guinea,Africa
+GQ,Guinea Ecuatorial,Africa
+GR,Grecia,Europa
+GT,Guatemala,America Central
+GW,Guinea Bissau,Africa
+GY,Guyana,America del Sur
+HK,Hong Kong,Asia
+HN,Honduras,America Central
+HR,Croacia,Europa
+HT,Haiti,Caribe
+HU,Hungria,Europa
+ID,Indonesia,Asia
+IE,Irlanda,Europa
+IL,Israel,Asia
+IN,India,Asia
+IQ,Irak,Asia
+IR,Iran,Asia
+IS,Islandia,Europa
+IT,Italia,Europa
+JM,Jamaica,Caribe
+JO,Jordania,Asia
+JP,Japon,Asia
+KE,Kenia,Africa
+KG,Kirguistan,Asia
+KH,Camboya,Asia
+KI,Kiribati,Oceania
+KM,Comoras,Africa
+KN,San Cristobal y Nieves,Caribe
+KP,Corea del Norte,Asia
+KR,Corea del Sur,Asia
+KW,Kuwait,Asia
+KY,Islas Caiman,Caribe
+KZ,Kazajistan,Eurasia
+LA,Laos,Asia
+LB,Libano,Asia
+LC,Santa Lucia,Caribe
+LI,Liechtenstein,Europa
+LK,Sri Lanka,Asia
+LR,Liberia,Africa
+LS,Lesoto,Africa
+LT,Lituania,Europa
+LU,Luxemburgo,Europa
+LV,Letonia,Europa
+LY,Libia,Africa
+MA,Marruecos,Africa
+MC,Monaco,Europa
+MD,Moldavia,Europa
+ME,Montenegro,Europa
+MG,Madagascar,Africa
+MH,Islas Marshall,Oceania
+MK,Macedonia del Norte,Europa
+ML,Mali,Africa
+MM,Birmania,Asia
+MN,Mongolia,Asia
+MO,Macao,Asia
+MR,Mauritania,Africa
+MT,Malta,Europa
+MU,Mauricio,Africa
+MV,Maldivas,Asia
+MW,Malawi,Africa
+MX,Mexico,America del Norte
+MY,Malasia,Asia
+MZ,Mozambique,Africa
+NA,Namibia,Africa
+NE,Niger,Africa
+NG,Nigeria,Africa
+NI,Nicaragua,America Central
+NL,Paises Bajos,Europa
+NO,Noruega,Europa
+NP,Nepal,Asia
+NR,Nauru,Oceania
+NZ,Nueva Zelanda,Oceania
+OM,Oman,Asia
+PA,Panama,America Central
+PE,Peru,America del Sur
+PG,Papua Nueva Guinea,Oceania
+PH,Filipinas,Asia
+PK,Pakistan,Asia
+PL,Polonia,Europa
+PR,Puerto Rico,Caribe
+PS,Palestina,Asia
+PT,Portugal,Europa
+PW,Palau,Oceania
+PY,Paraguay,America del Sur
+QA,Qatar,Asia
+RO,Rumania,Europa
+RS,Serbia,Europa
+RU,Rusia,Eurasia
+RW,Ruanda,Africa
+SA,Arabia Saudita,Asia
+SB,Islas Salomon,Oceania
+SC,Seychelles,Africa
+SD,Sudan,Africa
+SE,Suecia,Europa
+SG,Singapur,Asia
+SI,Eslovenia,Europa
+SK,Eslovaquia,Europa
+SL,Sierra Leona,Africa
+SM,San Marino,Europa
+SN,Senegal,Africa
+SO,Somalia,Africa
+SR,Surinam,America del Sur
+ST,Santo Tome y Principe,Africa
+SV,El Salvador,El Salvador
+SY,Siria,Asia
+SZ,Suazilandia,Africa
+TD,Chad,Africa
+TG,Togo,Africa
+TH,Tailandia,Asia
+TJ,Tayikistan,Asia
+TL,Timor Oriental,Asia
+TM,Turkmenistan,Asia
+TN,Tunez,Africa
+TO,Tonga,Oceania
+TR,Turquia,Eurasia
+TT,Trinidad y Tobago,Caribe
+TV,Tuvalu,Oceania
+TW,Taiwan,Asia
+TZ,Tanzania,Africa
+UA,Ucrania,Europa
+UG,Uganda,Africa
+US,Estados Unidos de America,America del Norte
+UY,Uruguay,America del Sur
+UZ,Uzbekistan,Asia
+VC,San Vicente y las Granadinas,Caribe
+VE,Venezuela,America del Sur
+VI,Islas Virgenes Americanas,Caribe
+VN,Vietnam,Asia
+VU,Vanuatu,Oceania
+WS,Samoa,Oceania
+YE,Yemen,Asia
+ZA,Sudafrica,Africa
+ZM,Zambia,Africa
+ZW,Zimbabwe,Africa
