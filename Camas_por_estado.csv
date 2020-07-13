@@ -1,4 +1,4 @@
-pais,estado,tipo,camas,poblacion,anho
+pais_id,estado,tipo,camas,poblacion,anho
 BR,Acre,ICU,0.08504,881935,2018
 BR,Alagoas,ICU,0.147122,3337357,2018
 BR,Amazonas,ICU,0.121122,4144597,2018
